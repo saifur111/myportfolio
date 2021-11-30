@@ -1,7 +1,7 @@
 {
-  "private": true,
+  "private": false,
   "name": "personalPortfolio",
-  "homepage": "http://harikanani.github.io/PortfolioV2",
+  "homepage": "https://mystifying-bardeen-5b1623.netlify.app",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
